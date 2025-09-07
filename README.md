@@ -13,7 +13,7 @@ Example: killerPID 1234
 <img width="2346" height="520" alt="poc" src="https://github.com/user-attachments/assets/c6d36eb7-8662-4ffe-b526-51349de5270a" />
 
 ## Reason for this BOF
-Coming soon...
+See the related [Blog post](https://tierzerosecurity.co.nz/2025/09/08/killerPID-BOF.html).
 
 ## Compile BOF 
 Ensure [Mingw-w64](https://www.mingw-w64.org/) and make is installed on your Linux host prior to compiling.
